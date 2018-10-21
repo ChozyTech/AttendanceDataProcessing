@@ -408,3 +408,22 @@ C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDat
 C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.csproj.CopyComplete
 C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.exe
 C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.pdb
+D:\Chris\Project\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.csprojResolveAssemblyReference.cache
+D:\Chris\Project\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Globals.FrmLogin.resources
+D:\Chris\Project\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.FrmMain.resources
+D:\Chris\Project\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Globals.FrmSplash.resources
+D:\Chris\Project\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmInputMasterUser.resources
+D:\Chris\Project\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmInputMasterJamKerja.resources
+D:\Chris\Project\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmInputMasterHariKerja.resources
+D:\Chris\Project\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmInputMasterKaryawan.resources
+D:\Chris\Project\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmMasterUser.resources
+D:\Chris\Project\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmMasterHariKerja.resources
+D:\Chris\Project\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmMasterJamKerja.resources
+D:\Chris\Project\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmMasterKaryawan.resources
+D:\Chris\Project\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.Templates.FrmInputMaster.resources
+D:\Chris\Project\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.Templates.FrmMaster.resources
+D:\Chris\Project\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Properties.Resources.resources
+D:\Chris\Project\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.csproj.GenerateResource.Cache
+D:\Chris\Project\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.exe.licenses
+D:\Chris\Project\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.exe
+D:\Chris\Project\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.pdb
