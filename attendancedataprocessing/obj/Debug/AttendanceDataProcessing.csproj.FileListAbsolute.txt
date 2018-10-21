@@ -1,0 +1,410 @@
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\AttendanceDataProcessing.exe.config
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\AttendanceDataProcessing.exe
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\AttendanceDataProcessing.pdb
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.csprojResolveAssemblyReference.cache
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.FrmMain.resources
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.FrmTest.resources
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Properties.Resources.resources
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.csproj.GenerateResource.Cache
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.exe.licenses
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.exe
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.pdb
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.csprojResolveAssemblyReference.cache
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Globals.FrmLogin.resources
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.FrmMain.resources
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Properties.Resources.resources
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.csproj.GenerateResource.Cache
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.exe.licenses
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.exe
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.pdb
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\AttendanceDataProcessing.exe.config
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\AttendanceDataProcessing.exe
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\AttendanceDataProcessing.pdb
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.Templates.FrmMaster.resources
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.Templates.FrmMasterInput.resources
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmInputMasterKaryawan.resources
+C:\Users\ricot\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmMasterKaryawan.resources
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\AttendanceDataProcessing.exe.config
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\AttendanceDataProcessing.exe
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\AttendanceDataProcessing.pdb
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.csprojResolveAssemblyReference.cache
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Globals.FrmLogin.resources
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.FrmMain.resources
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmInputMasterKaryawan.resources
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmMasterKaryawan.resources
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.Templates.FrmMaster.resources
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Properties.Resources.resources
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.csproj.GenerateResource.Cache
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.exe.licenses
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.exe
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.pdb
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmMasterHariKerja.resources
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmMasterJamKerja.resources
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmMasterUser.resources
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmInputMasterUser.resources
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmInputMasterJamKerja.resources
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmInputMasterHariKerja.resources
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.Templates.FrmInputMaster.resources
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\MySql.Data.dll
+C:\Users\VTI\Dropbox\Rico\Attendance Data Processing\AttendanceDataProcessing\bin\Debug\MySql.Data.xml
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.csprojResolveAssemblyReference.cache
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Globals.FrmLogin.resources
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.FrmMain.resources
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmInputMasterUser.resources
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmInputMasterJamKerja.resources
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmInputMasterHariKerja.resources
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmInputMasterKaryawan.resources
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmMasterUser.resources
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmMasterHariKerja.resources
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmMasterJamKerja.resources
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmMasterKaryawan.resources
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.Templates.FrmInputMaster.resources
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.Templates.FrmMaster.resources
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Properties.Resources.resources
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.csproj.GenerateResource.Cache
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.exe.licenses
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.exe
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.pdb
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\AttendanceDataProcessing.exe.config
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\AttendanceDataProcessing.exe
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\AttendanceDataProcessing.pdb
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Kurisu\Downloads\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Globals.FrmSplash.resources
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\AttendanceDataProcessing.exe.config
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\AttendanceDataProcessing.exe
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\AttendanceDataProcessing.pdb
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Globals.FrmLogin.resources
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.FrmMain.resources
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Globals.FrmSplash.resources
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmInputMasterUser.resources
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmInputMasterJamKerja.resources
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmInputMasterHariKerja.resources
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmInputMasterKaryawan.resources
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmMasterUser.resources
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmMasterHariKerja.resources
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmMasterJamKerja.resources
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmMasterKaryawan.resources
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.Templates.FrmInputMaster.resources
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.Templates.FrmMaster.resources
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Properties.Resources.resources
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.csproj.GenerateResource.Cache
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.exe.licenses
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.exe
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\rico\attendance data processing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.pdb
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\AttendanceDataProcessing.exe.config
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\AttendanceDataProcessing.exe
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\AttendanceDataProcessing.pdb
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.csprojAssemblyReference.cache
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Globals.FrmLogin.resources
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.FrmMain.resources
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Globals.FrmSplash.resources
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmInputMasterUser.resources
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmInputMasterJamKerja.resources
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmInputMasterHariKerja.resources
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmInputMasterKaryawan.resources
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmMasterUser.resources
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmMasterHariKerja.resources
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmMasterJamKerja.resources
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.FrmMasterKaryawan.resources
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.Templates.FrmInputMaster.resources
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Forms.Masters.Templates.FrmMaster.resources
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.Properties.Resources.resources
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.csproj.GenerateResource.cache
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.exe.licenses
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.csproj.CopyComplete
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.exe
+C:\Users\Cho\Documents\Visual Studio 2017\AttendanceDataProcessing\AttendanceDataProcessing\obj\Debug\AttendanceDataProcessing.pdb
